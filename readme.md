@@ -14,7 +14,7 @@ $ npm install @adarta-admin/hello-world
     hello("This is me. ");
     //=> "This is me. Hello World"
     
-    tiny(1337);
+    hello(1337);
     //=> "Hello World" (default)
 
 
