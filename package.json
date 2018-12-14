@@ -1,4 +1,14 @@
 {
   "name": "@adarta-admin/hello-world",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "description": "Concatenates Hello world! to a passed string.",
+  "license": "MIT",
+  "repository": "adarta/hello-world",
+  "main": "index.js",
+  "keywords": [
+    "hello-world",
+    "npm",
+    "package",
+    "adarta"
+  ]
 }
