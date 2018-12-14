@@ -1,6 +1,6 @@
 {
   "name": "@adarta-admin/hello-world",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Concatenates Hello world! to a passed string.",
   "license": "MIT",
   "repository": "adarta/hello-world",
